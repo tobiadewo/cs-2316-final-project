@@ -1,0 +1,100 @@
+Name,ID,Type,Classes,Cost,Gold Efficiency,HP,Mana,Armor,Attack Damage,Ability Power,% Movement Speed,% Attack Speed,Critical Strike Chance,Magic Resist,Lifesteal
+Crown of the Shattered Queen,4644,Mythic,Mage,2800,1.2723,250,600,0,0,70,0,0,0,0,0
+Divine Sunderer,6632,Mythic,Fighter,3300,0.8283,300,0,0,40,0,0,0,0,0,0
+Duskblade of Draktharr,6691,Mythic,Assassin,3100,1.0187,0,0,0,60,0,0,0,0,0,0
+Eclipse,6692,Mythic,Assassin/Fighter,3100,0.9193000000000001,0,0,0,60,0,0,0,0,0,0
+Evenshroud,3001,Mythic,Support/Tank,2500,0.8826999999999999,200,0,30,0,0,0,0,0,30,0
+Everfrost,6656,Mythic,Mage,2800,1.2723,250,600,0,0,70,0,0,0,0,0
+Galeforce,6671,Mythic,Marksman,3400,1.0,0,0,0,60,0,0,0.2,0.2,0,0
+Goredrinker,6630,Mythic,Fighter,3300,1.0835,300,0,0,55,0,0,0,0,0,0
+Heartsteel,3084,Mythic,Tank,3200,1.0208,800,0,0,0,0,0,0,0,0,0
+Hextech Rocketbelt,3152,Mythic,Mage,3200,1.0034,250,0,0,0,90,0,0,0,0,0
+Iceborn Gauntlet,6662,Mythic,Tank,3000,0.8667,400,0,50,0,0,0,0,0,0,0
+Immortal Shieldbow,6673,Mythic,Marksman,3400,1.0073999999999999,0,0,0,50,0,0,0.2,0.2,0,0.07
+Imperial Mandate,4005,Mythic,Support,2500,0.9747,200,0,0,0,40,0,0,0,0,0
+"Jak'Sho, The Protean",6665,Mythic,Tank,3200,0.8563,400,0,30,0,0,0,0,0,30,0
+Kraken Slayer,6672,Mythic,Marksman,3400,1.0881999999999998,0,0,0,65,0,0,0.25,0.2,0,0
+Liandry's Anguish,6653,Mythic,Mage,3200,0.9729000000000001,0,600,0,0,80,0,0,0,0,0
+Locket of the Iron Solari,3190,Mythic,Support/Tank,2500,0.8826999999999999,200,0,30,0,0,0,0,0,30,0
+Luden's Tempest,6655,Mythic,Mage,3200,1.0312999999999999,0,600,0,0,80,0,0,0,0,0
+Moonstone Renewer,6617,Mythic,Support,2500,0.9747,200,0,0,0,40,0,0,0,0,0
+Night Harvester,4636,Mythic,Mage,3200,1.0701,300,0,0,0,90,0,0,0,0,0
+Prowler's Claw,6693,Mythic,Assassin,3100,1.0187,0,0,0,60,0,0,0,0,0,0
+Radiant Virtue,6667,Mythic,Tank,3200,0.8563,400,0,30,0,0,0,0,0,30,0
+Riftmaker,4633,Mythic,Mage,3200,0.9376000000000001,300,0,0,0,70,0,0,0,0,0
+Rod of Ages,6657,Mythic,Mage,2800,1.047,400,400,0,0,60,0,0,0,0,0
+Shurelya's Battlesong,2065,Mythic,Support/Tank,2500,0.9747,200,0,0,0,40,0,0,0,0,0
+Stridebreaker,6631,Mythic,Fighter,3300,1.0859,300,0,0,50,0,0,0.2,0,0,0
+Trinity Force,3078,Mythic,Fighter/Marksman,3333,0.9926,300,0,0,35,0,0,0.3,0,0,0
+Abyssal Mask,8020,Legendary,Tank,3000,0.9578,500,300,0,0,0,0,0,0,40,0
+Anathema's Chains,8001,Legendary,Support/Tank,2500,0.9067000000000001,650,0,0,0,0,0,0,0,0,0
+Archangel's Staff,3003,Legendary,Mage,3000,1.0075,200,500,0,0,80,0,0,0,0,0
+Ardent Censer,3504,Legendary,Support,2300,1.0239,0,0,0,0,60,0,0,0,0,0
+Axiom Arc,6696,Legendary,Assassin,3000,1.0388,0,0,0,55,0,0,0,0,0,0
+Banshee's Veil,3102,Legendary,Mage,2600,1.0833,0,0,0,0,80,0,0,0,45,0
+Black Cleaver,3071,Legendary,Assassin/Fighter,3100,1.1667,400,0,0,50,0,0,0,0,0,0
+Black Mist Scythe,3864,Legendary,Support,400,3.5,75,0,0,20,0,0,0,0,0,0
+Blade of The Ruined King,3153,Legendary,Fighter/Marksman,3300,0.7434999999999999,0,0,0,40,0,0,0.25,0,0,0.08
+Bloodthirster,3072,Legendary,Marksman,3200,1.1027,0,0,0,55,0,0,0,0.2,0,0.15
+Bulwark of the Mountain,3860,Legendary,Support/Tank,400,3.5042,250,0,0,0,20,0,0,0,0,0
+Chempunk Chainsword,6609,Legendary,Assassin/Fighter,2800,1.1637,250,0,0,55,0,0,0,0,0,0
+Chemtech Putrifier,3011,Legendary,Support,2300,1.0087000000000002,0,0,0,0,40,0,0,0,0,0
+Cosmic Drive,4629,Legendary,Mage,3000,1.125,200,0,0,0,65,0.05,0,0,0,0
+Dead Man's Plate,3742,Legendary,Tank,2900,0.7241,300,0,45,0,0,0.05,0,0,0,0
+Death's Dance,6333,Legendary,Fighter,3300,0.9773000000000001,0,0,50,65,0,0,0,0,0,0
+Demonic Embrace,4637,Legendary,Mage,3000,0.8549,350,0,0,0,75,0,0,0,0,0
+Edge of Night,3814,Legendary,Assassin,2900,1.0028,325,0,0,50,0,0,0,0,0,0
+Essence Reaver,3508,Legendary,Marksman,2900,1.1236,0,0,0,55,0,0,0,0.2,0,0
+Fimbulwinter,3121,Legendary,Support/Tank,2700,1.0272,400,860,0,0,0,0,0,0,0,0
+Force of Nature,4401,Legendary,Tank,2900,0.8943000000000001,350,0,0,0,0,0.05,0,0,70,0
+Frozen Heart,3110,Legendary,Tank,2700,1.0715999999999999,0,400,90,0,0,0,0,0,0,0
+Gargoyle Stoneplate,3193,Legendary,Tank,3200,0.8375,0,0,60,0,0,0,0,0,60,0
+Guardian Angel,3026,Legendary,Assassin/Fighter/Marksman,3000,0.7917000000000001,0,0,40,45,0,0,0,0,0,0
+Guinsoo's Rageblade,3124,Legendary,Fighter/Marksman,2600,0.7404000000000001,0,0,0,0,0,0,0.45,0.2,0,0
+Horizon Focus,4628,Legendary,Mage,3000,0.9917,150,0,0,0,100,0,0,0,0,0
+Hullbreaker,3181,Legendary,Fighter,2800,1.1667,400,0,0,50,0,0,0,0,0,0
+Infinity Edge,3031,Legendary,Marksman,3400,0.9559000000000001,0,0,0,70,0,0,0,0.2,0,0
+Knight's Vow,3109,Legendary,Support/Tank,2300,0.9565,400,0,0,0,0,0,0,0,0,0
+Lich Bane,3100,Legendary,Mage,3000,0.8904000000000001,0,0,0,0,75,0.08,0,0,0,0
+Lord Dominik's Regards,3036,Legendary,Marksman,3000,1.0917000000000001,0,0,0,35,0,0,0,0.2,0,0
+Maw of Malmortius,3156,Legendary,Assassin/Fighter/Marksman,2900,1.0948,0,0,0,65,0,0,0,0,50,0
+Mejai's Soulstealer,3041,Legendary,Mage,1600,0.4385,100,0,0,0,20,0,0,0,0,0
+Mercurial Scimitar,3139,Legendary,Marksman,3000,0.9732999999999999,0,0,0,40,0,0,0,0.2,40,0
+Mikael's Blessing,3222,Legendary,Support,2300,1.2609000000000001,0,0,0,0,0,0,0,0,50,0
+Morellonomicon,3165,Legendary,Mage,3000,0.934,200,0,0,0,90,0,0,0,0,0
+Mortal Reminder,3033,Legendary,Marksman,3000,1.0917000000000001,0,0,0,35,0,0,0,0.2,0,0
+Muramana,3042,Legendary,Assassin/Fighter/Marksman,3000,0.9754999999999999,0,860,0,35,0,0,0,0,0,0
+Nashor's Tooth,3115,Legendary,Mage,3000,1.1953,0,0,0,0,100,0,0.5,0,0,0
+Navori Quickblades,6675,Legendary,Marksman,3400,1.0098,0,0,0,60,0,0,0,0.2,0,0
+Pauldrons of Whiterock,3857,Legendary,Support/Tank,400,3.7292,250,0,0,15,0,0,0,0,0,0
+Phantom Dancer,3046,Legendary,Marksman,2600,1.0327,0,0,0,20,0,0.07,0.25,0.2,0,0
+Rabadon's Deathcap,3089,Legendary,Mage,3600,0.725,0,0,0,0,120,0,0,0,0,0
+Randuin's Omen,3143,Legendary,Tank,3000,0.7556,400,0,60,0,0,0,0,0,0,0
+Rapid Firecannon,3094,Legendary,Marksman,2500,0.894,0,0,0,0,0,0.07,0.35,0.2,0,0
+Ravenous Hydra,3074,Legendary,Assassin/Fighter,3400,1.0228,0,0,0,65,0,0,0,0,0,0.1
+Redemption,3107,Legendary,Support,2300,1.1014,200,0,0,0,0,0,0,0,0,0
+Runaan's Hurricane,3085,Legendary,Marksman,2600,0.9558,0,0,0,0,0,0.07,0.45,0.2,0,0
+Rylai's Crystal Scepter,3116,Legendary,Mage,2600,1.0377,400,0,0,0,75,0,0,0,0,0
+Serpent's Fang,6695,Legendary,Assassin,2600,0.8748999999999999,0,0,0,55,0,0,0,0,0,0
+Serylda's Grudge,6694,Legendary,Assassin/Fighter/Marksman,3200,1.0495,0,0,0,45,0,0,0,0,0,0
+Shadowflame,4645,Legendary,Mage,3000,0.9028,200,0,0,0,100,0,0,0,0,0
+Shard of True Ice,3853,Legendary,Mage/Support,400,3.925,75,0,0,0,40,0,0,0,0,0
+Silvermere Dawn,6035,Legendary,Assassin/Fighter,3000,0.9732999999999999,300,0,0,40,0,0,0,0,40,0
+Spear Of Shojin,3161,Legendary,Assassin/Fighter,3400,1.0613,300,0,0,65,0,0,0,0,0,0
+Spirit Visage,3065,Legendary,Tank,2900,0.9195,450,0,0,0,0,0,0,0,50,0
+Staff of Flowing Water,6616,Legendary,Support,2300,0.9293,0,0,0,0,50,0,0,0,0,0
+Sterak's Gage,3053,Legendary,Fighter/Tank,3100,0.34409999999999996,400,0,0,0,0,0,0,0,0,0
+Stormrazor,3095,Legendary,Marksman,2700,1.0185,0,0,0,45,0,0,0.15,0.2,0,0
+Sunfire Aegis,3068,Legendary,Tank,2700,0.8642,500,0,50,0,0,0,0,0,0,0
+The Collector,6676,Legendary,Assassin/Marksman,3000,1.0249,0,0,0,55,0,0,0,0.2,0,0
+Thornmail,3075,Legendary,Tank,2700,0.8642,350,0,70,0,0,0,0,0,0,0
+Titanic Hydra,3748,Legendary,Fighter/Tank,3300,0.7222,500,0,0,30,0,0,0,0,0,0
+Turbo Chemtank,6664,Legendary,Tank,2800,0.8929,500,0,0,0,0,0,0,0,50,0
+Umbral Glaive,3179,Legendary,Assassin,2300,1.0615,0,0,0,50,0,0,0,0,0,0
+Vigilant Wardstone,4643,Legendary,Support,1100,0.7273000000000001,150,0,0,0,0,0,0,0,0,0
+Void Staff,3135,Legendary,Mage,2800,1.281,0,0,0,0,65,0,0,0,0,0
+Warmog's Armor,3083,Legendary,Tank,3000,1.0,800,0,0,0,0,0,0,0,0,0
+Wit's End,3091,Legendary,Fighter,3100,1.0065,0,0,0,40,0,0,0.4,0,40,0
+Youmuu's Ghostblade,3142,Legendary,Assassin,3000,0.9499,0,0,0,55,0,0,0,0,0,0
+Zeke's Convergence,3050,Legendary,Support/Tank,2400,0.9375,250,250,35,0,0,0,0,0,0,0
+Zhonya's Hourglass,3157,Legendary,Mage,3000,1.0133,0,0,45,0,80,0,0,0,0,0
